@@ -43,7 +43,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37046</dc:source>
 		<dc:source>https://archive.org/details/greenefernefarm01jeffgoog</dc:source>
-		<dc:source>https://hdl.handle.net/2027/nyp.33433074867486</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/000157768</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-jefferies_greene-ferne-farm</meta>
