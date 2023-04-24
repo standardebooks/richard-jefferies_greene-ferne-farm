@@ -34,39 +34,38 @@
 		<meta property="term" refines="#subject-1">sh2008101814</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008114943</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">The inhabitants of the area around Greene Ferne Farm deal with harvest, social customs, family obligations, and romance in rural Victorian England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The story of &lt;i&gt;Greene Ferne Farm&lt;/i&gt; centers around Margaret Estecourt and her two suitors— Geoffrey and Valentine. The trio, as well as their friends, travel the countryside, have adventures on the farm, and stir up rumors in the surrounding towns. In many ways the farm and it’s surroundings are characters in the story, and their history and social complications quickly absorb the main narrative in favor of painting a picture of the land, the customs, and the joys and sorrows of youth and farm life.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Greene Ferne Farm&lt;/i&gt; was the first novel by &lt;a href="https://standardebooks.org/ebooks/richard-jefferies"&gt;Richard Jefferies&lt;/a&gt; to feature what was to become his trademark literary style— a fusion of his agricultaral essays, for which he was well known at the time, and narrative based storytelling. He would go on to develop this style further in a number of other novels, but never so simply and directly as in Greene Ferne Farm.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37046</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/greenefernefarm01jeffgoog</dc:source>
+		<dc:source>https://hdl.handle.net/2027/nyp.33433074867486</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-jefferies_greene-ferne-farm</meta>
 		<dc:creator id="author">Richard Jefferies</dc:creator>
 		<meta property="file-as" refines="#author">Jefferies, Richard</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">John Richard Jefferies</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Richard_Jefferies</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81125341</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Julian Alden Weir</dc:contributor>
+		<meta property="file-as" refines="#artist">Weir, Julian Alden</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._Alden_Weir</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50022581</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Nick Hodson of London</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Hodson, Nick</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">England</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Brian Evans</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Evans, Brian</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://sloum.colorfield.space</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
