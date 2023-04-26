@@ -37,13 +37,12 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The inhabitants of the area around Greene Ferne Farm deal with harvest, social customs, family obligations, and romance in rural Victorian England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The story of &lt;i&gt;Greene Ferne Farm&lt;/i&gt; centers around Margaret Estecourt and her two suitors— Geoffrey and Valentine. The trio, as well as their friends, travel the countryside, have adventures on the farm, and stir up rumors in the surrounding towns. In many ways the farm and it’s surroundings are characters in the story, and their history and social complications quickly absorb the main narrative in favor of painting a picture of the land, the customs, and the joys and sorrows of youth and farm life.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Greene Ferne Farm&lt;/i&gt; was the first novel by &lt;a href="https://standardebooks.org/ebooks/richard-jefferies"&gt;Richard Jefferies&lt;/a&gt; to feature what was to become his trademark literary style— a fusion of his agricultaral essays, for which he was well known at the time, and narrative based storytelling. He would go on to develop this style further in a number of other novels, but never so simply and directly as in Greene Ferne Farm.&lt;/p&gt;
+			&lt;p&gt;The story of &lt;i&gt;Greene Ferne Farm&lt;/i&gt; centers around Margaret Estecourt and her two suitors: Geoffrey and Valentine. The trio, as well as their friends, travel the countryside, have adventures on the farm, and stir up rumors in the surrounding towns. In many ways the farm and its surroundings are characters in the story, and their history and social complications quickly absorb the main narrative in favor of painting a picture of the land, the customs, and the joys and sorrows of youth and farm life.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Greene Ferne Farm&lt;/i&gt; was the first novel by &lt;a href="https://standardebooks.org/ebooks/richard-jefferies"&gt;Richard Jefferies&lt;/a&gt; to feature what was to become his trademark literary style: a fusion of his agricultural essays, for which he was well known at the time, and narrative based storytelling. He would go on to develop this style further in a number of other novels, but never so simply and directly as in &lt;i&gt;Greene Ferne Farm&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37046</dc:source>
 		<dc:source>https://archive.org/details/greenefernefarm01jeffgoog</dc:source>
-		<dc:source>https://catalog.hathitrust.org/Record/000157768</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-jefferies_greene-ferne-farm</meta>
@@ -53,16 +52,15 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Richard_Jefferies</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81125341</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Julian Alden Weir</dc:contributor>
 		<meta property="file-as" refines="#artist">Weir, Julian Alden</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._Alden_Weir</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50022581</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Nick Hodson of London</dc:contributor>
+		<dc:contributor id="transcriber-1">Nick Hodson</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Hodson, Nick</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">England</dc:contributor>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Brian Evans</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Evans, Brian</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://sloum.colorfield.space</meta>
@@ -92,6 +90,8 @@
 		<item href="text/chapter-10.xhtml" id="chapter-10.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-11.xhtml" id="chapter-11.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
@@ -100,6 +100,7 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="chapter-3.xhtml"/>
@@ -111,6 +112,7 @@
 		<itemref idref="chapter-9.xhtml"/>
 		<itemref idref="chapter-10.xhtml"/>
 		<itemref idref="chapter-11.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
