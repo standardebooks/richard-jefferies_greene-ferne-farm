@@ -2,13 +2,17 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-.center-all-caps-small{
-	font-size: 0.9em;
+#chapter-9 blockquote:nth-of-type(3){
 	font-variant-caps: all-small-caps;
 	text-align: center;
 }
 
-.center-all-caps-small span{
+#chapter-1 blockquote{
+	font-variant-caps: small-caps;
+	text-align: center;
+}
+
+#chapter-1 blockquote span{
 	font-size: 1.25em;
 }
 
