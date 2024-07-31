@@ -43,7 +43,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37046</dc:source>
 		<dc:source>https://archive.org/details/greenefernefarm01jeffgoog</dc:source>
-		<meta property="se:word-count">40504</meta>
+		<meta property="se:word-count">40490</meta>
 		<meta property="se:reading-ease.flesch">79.7</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-jefferies_greene-ferne-farm</meta>
 		<dc:creator id="author">Richard Jefferies</dc:creator>
