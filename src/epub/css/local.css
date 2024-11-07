@@ -13,7 +13,7 @@
 }
 
 #chapter-1 blockquote span{
-	font-size: 1.25em;
+	font-size: larger;
 }
 
 [epub|type~="z3998:verse"] p + p{
