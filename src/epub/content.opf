@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/richard-jefferies/greene-ferne-farm</dc:identifier>
 		<dc:date>2023-04-30T06:35:22Z</dc:date>
@@ -37,11 +37,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008114943</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">The inhabitants of the area around Greene Ferne Farm deal with harvest, social customs, family obligations, and romance in rural Victorian England.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The inhabitants of the area around Greene Ferne Farm deal with harvest, social customs, family obligations, and romance in rural Victorian England.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The story of &lt;i&gt;Greene Ferne Farm&lt;/i&gt; centers around Margaret Estecourt and her two suitors: Geoffrey and Valentine. The trio, as well as their friends, travel the countryside, have adventures on the farm, and stir up rumors in the surrounding towns. In many ways the farm and its surroundings are characters in the story, and their history and social complications quickly absorb the main narrative in favor of painting a picture of the land, the customs, and the joys and sorrows of youth and farm life.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Greene Ferne Farm&lt;/i&gt; was the first novel by &lt;a href="https://standardebooks.org/ebooks/richard-jefferies"&gt;Richard Jefferies&lt;/a&gt; to feature what was to become his trademark literary style: a fusion of his agricultural essays, for which he was well known at the time, and narrative based storytelling. He would go on to develop this style further in a number of other novels, but never so simply and directly as in &lt;i&gt;Greene Ferne Farm&lt;/i&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37046</dc:source>
 		<dc:source>https://archive.org/details/greenefernefarm01jeffgoog</dc:source>
